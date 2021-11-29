@@ -12,7 +12,7 @@ Creating consistent 3D images of geophysical and geological datasets and turning
 * [Usage](#usage)
 * [Installation](#installation)
 * [Dependencies](#dependencies)
-* [Alpine Data](#visualising-alpine-data)
+
 * [Contributing](#contributing)
 * [Development roadmap](#development-roadmap)
 * [Funding](#funding)
